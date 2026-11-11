@@ -216,6 +216,6 @@ running the loader without administrator rights, or from another overlay
 
 ---
 
-*grand-theft-auto-5-overlay-pack · Updated 2026-11-10 · Shared under the MIT License*
+*grand-theft-auto-5-overlay-pack · Updated 2026-11-11 · Shared under the MIT License*
 
-<!-- rev 2026-11-10 -->
+<!-- rev 2026-11-11 -->
